@@ -21,3 +21,6 @@
 ## 后续开发
 
 完善事件调度器和状态机，扩展至 24 个独立互动事件，加入可访问性测试、分支叙事、长线回访和更多视觉场景。不要把当前原型误认为已实现完整设计。
+
+
+Deployment: GitHub Pages via GitHub Actions (triggered after Pages configuration).
